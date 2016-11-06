@@ -1,11 +1,11 @@
-## Find detailed procedure here -
+# Find detailed procedure here -
 * https://facebook.github.io/react-native/docs/getting-started.html
 
 # Step by step -
-## Install react-native-cli
+## 1. Install react-native-cli
 * sudo npm install -g react-native-cli
 
-## Set up Android Development Environment
+## 2. Set up Android Development Environment
 
-## Create project
+## 3. Create project
 * react-native init <ProjectName>
