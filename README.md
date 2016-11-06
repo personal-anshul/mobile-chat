@@ -8,4 +8,4 @@
 ## 2. Set up Android Development Environment
 
 ## 3. Create project
-* react-native init <ProjectName>
+* react-native init ProjectName
